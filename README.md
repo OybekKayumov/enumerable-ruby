@@ -31,9 +31,10 @@ Clone the repository from this [link](https://github.com/OybekKayumov/enumerable
 - Twitter: [@KayumovOybek](https://twitter.com/KayumovOybek)
 - LinkedIn: [Oybek Kayumov](https://www.linkedin.com/in/oybek-kayumov/)
 
+👤 **Author2**
+
 👤 **Linda Keza**
 - GitHub: [@keza681](https://github.com/keza681)
-- Twitter: [@LKeza19](https://twitter.com/LKeza19)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/linda-keza/)
 
 ## 🤝 Contributing
