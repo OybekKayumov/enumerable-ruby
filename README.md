@@ -23,15 +23,11 @@ Clone the repository from this [link](https://github.com/OybekKayumov/enumerable
 
 ## Authors
 
-👤 **Author1**
-
 👤 **Oybek Kayumov**
 
 - GitHub: [@OybekKayumov](https://github.com/OybekKayumov)
 - Twitter: [@KayumovOybek](https://twitter.com/KayumovOybek)
 - LinkedIn: [Oybek Kayumov](https://www.linkedin.com/in/oybek-kayumov/)
-
-👤 **Author2**
 
 👤 **Linda Keza**
 - GitHub: [@keza681](https://github.com/keza681)
